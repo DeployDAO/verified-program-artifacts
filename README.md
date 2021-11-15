@@ -1,10 +1,3 @@
----
-anchorVersion: "$(nix shell .#anchor-0_18_0 --command anchor --version)"
-createdAt: "$(date)"
-repo: "GokiProtocol/goki"
-tag: "v0.2.1"
-slug: "GokiProtocol__goki-v0.2.1"
----
 # GokiProtocol/goki v0.2.1
 ## Checksums
 \`\`\`
