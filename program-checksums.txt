@@ -1,1 +1,0 @@
-7998ffc2c5d5ce7b2c92a148384dbbf819e698082ff2e3fab36f1b13c0871700  artifacts/verifiable/merkle_distributor.so
