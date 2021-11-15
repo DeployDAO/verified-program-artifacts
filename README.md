@@ -1,3 +1,10 @@
+---
+anchorVersion: "$(nix shell .#anchor-0_18_0 --command anchor --version)"
+createdAt: "$(date)"
+repo: "saber-hq/merkle-distributor"
+tag: "v0.2.2"
+slug: "saber-hq__merkle-distributor-v0.2.2"
+---
 # saber-hq/merkle-distributor v0.2.2
 ## Checksums
 \`\`\`
