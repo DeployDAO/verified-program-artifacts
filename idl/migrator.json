@@ -1,0 +1,444 @@
+{
+  "version": "0.0.0",
+  "name": "migrator",
+  "instructions": [
+    {
+      "name": "newMigrator",
+      "accounts": [
+        {
+          "name": "migrator",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "approver",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "program",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "programData",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "payer",
+          "isMut": false,
+          "isSigner": true
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "bump",
+          "type": "u8"
+        },
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "description",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "deployProgram",
+      "accounts": [
+        {
+          "name": "approvedMigration",
+          "accounts": [
+            {
+              "name": "migrator",
+              "isMut": false,
+              "isSigner": false
+            },
+            {
+              "name": "migration",
+              "isMut": false,
+              "isSigner": false
+            },
+            {
+              "name": "buffer",
+              "isMut": false,
+              "isSigner": false
+            },
+            {
+              "name": "executor",
+              "isMut": false,
+              "isSigner": true
+            }
+          ]
+        },
+        {
+          "name": "program",
+          "accounts": [
+            {
+              "name": "program",
+              "isMut": false,
+              "isSigner": false
+            },
+            {
+              "name": "programData",
+              "isMut": false,
+              "isSigner": false
+            }
+          ]
+        },
+        {
+          "name": "rent",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "clock",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "bpfLoaderUpgradeableProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": []
+    },
+    {
+      "name": "upgradeProgram",
+      "accounts": [
+        {
+          "name": "approvedMigration",
+          "accounts": [
+            {
+              "name": "migrator",
+              "isMut": false,
+              "isSigner": false
+            },
+            {
+              "name": "migration",
+              "isMut": false,
+              "isSigner": false
+            },
+            {
+              "name": "buffer",
+              "isMut": false,
+              "isSigner": false
+            },
+            {
+              "name": "executor",
+              "isMut": false,
+              "isSigner": true
+            }
+          ]
+        },
+        {
+          "name": "program",
+          "accounts": [
+            {
+              "name": "program",
+              "isMut": false,
+              "isSigner": false
+            },
+            {
+              "name": "programData",
+              "isMut": false,
+              "isSigner": false
+            }
+          ]
+        },
+        {
+          "name": "rent",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "clock",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "bpfLoaderUpgradeableProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": []
+    },
+    {
+      "name": "approveMigration",
+      "accounts": [
+        {
+          "name": "migrator",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "migration",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "approver",
+          "isMut": false,
+          "isSigner": true
+        }
+      ],
+      "args": [
+        {
+          "name": "deadline",
+          "type": "i64"
+        }
+      ]
+    },
+    {
+      "name": "rejectMigration",
+      "accounts": [
+        {
+          "name": "migrator",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "migration",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "approver",
+          "isMut": false,
+          "isSigner": true
+        }
+      ],
+      "args": []
+    },
+    {
+      "name": "proposeMigration",
+      "accounts": [
+        {
+          "name": "migrator",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "migration",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "buffer",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "proposer",
+          "isMut": false,
+          "isSigner": true
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "bump",
+          "type": "u8"
+        },
+        {
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "name": "description",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "reserveProgramId",
+      "accounts": [
+        {
+          "name": "program",
+          "isMut": false,
+          "isSigner": true
+        },
+        {
+          "name": "payer",
+          "isMut": false,
+          "isSigner": true
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": []
+    }
+  ],
+  "accounts": [
+    {
+      "name": "Migrator",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "programId",
+            "type": "publicKey"
+          },
+          {
+            "name": "bump",
+            "type": "u8"
+          },
+          {
+            "name": "approver",
+            "type": "publicKey"
+          },
+          {
+            "name": "pendingMigration",
+            "type": "publicKey"
+          },
+          {
+            "name": "approvalExpiresAt",
+            "type": "i64"
+          },
+          {
+            "name": "numMigrations",
+            "type": "u64"
+          },
+          {
+            "name": "latestMigrationIndex",
+            "type": "u64"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "description",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Migration",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "migrator",
+            "type": "publicKey"
+          },
+          {
+            "name": "index",
+            "type": "u64"
+          },
+          {
+            "name": "bump",
+            "type": "u8"
+          },
+          {
+            "name": "buffer",
+            "type": "publicKey"
+          },
+          {
+            "name": "proposer",
+            "type": "publicKey"
+          },
+          {
+            "name": "createdAt",
+            "type": "i64"
+          },
+          {
+            "name": "rejectedAt",
+            "type": "i64"
+          },
+          {
+            "name": "executedAt",
+            "type": "i64"
+          },
+          {
+            "name": "executor",
+            "type": "publicKey"
+          },
+          {
+            "name": "title",
+            "type": "string"
+          },
+          {
+            "name": "description",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "errors": [
+    {
+      "code": 300,
+      "name": "ParseError",
+      "msg": "Could not deserialize UpgradeableLoaderState."
+    },
+    {
+      "code": 301,
+      "name": "ProgramIdNotSigner",
+      "msg": "Must be signer of an uninitialized program."
+    },
+    {
+      "code": 302,
+      "name": "BufferAuthorityMismatch",
+      "msg": "Buffer authority mismatch."
+    },
+    {
+      "code": 303,
+      "name": "NoApprovedMigration",
+      "msg": "No approved migration."
+    },
+    {
+      "code": 304,
+      "name": "MigrationWindowExpired",
+      "msg": "Migration approval window expired."
+    },
+    {
+      "code": 305,
+      "name": "InsufficientLamports",
+      "msg": "Insufficient lamports remaining for rent exemption."
+    },
+    {
+      "code": 306,
+      "name": "MigrationRejected",
+      "msg": "Migration rejected."
+    },
+    {
+      "code": 307,
+      "name": "MigrationAlreadyExecuted",
+      "msg": "Migration already executed."
+    },
+    {
+      "code": 308,
+      "name": "ExpiryMustBeInFuture",
+      "msg": "Migration expiry time must be in the future."
+    }
+  ]
+}
