@@ -1,3 +1,10 @@
+---
+anchorVersion: "anchor-cli 0.18.0"
+createdAt: "Mon Nov 15 09:24:25 UTC 2021"
+repo: "GokiProtocol/goki"
+tag: "v0.2.1"
+slug: "GokiProtocol__goki-v0.2.1"
+---
 # GokiProtocol/goki v0.2.1
 ## Checksums
 \`\`\`
