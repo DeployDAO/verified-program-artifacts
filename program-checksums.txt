@@ -1,2 +1,0 @@
-e8300cdba824886bb792ecb4f8bae306e9e72fb62b01068d68609d58116e53bd  artifacts/verifiable/smart_wallet.so
-8b67524426ecf93a76644ec217ebdb1e5168ed66042dd2139b58c434a7e36e24  artifacts/verifiable/token_signer.so
