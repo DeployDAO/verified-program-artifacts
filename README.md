@@ -4,4 +4,4 @@ eb2bf5ecb9d871dcd79cd11b7bb9991b878baf8e5767d5a0e0a6976eabaf2f00  artifacts/idl/
 84e5413cd9bc756f43caf50008721723c70e3bdc593aba781249faa6cddfd13d  artifacts/idl/quarry_operator.json
 82bdeff494d8ccfd1af423e26c5f4dc96b8ab35c841b78cb3319599a4686b040  artifacts/idl/quarry_redeemer.json
 622f4b811b41ee23906171ca25f62dff8c3449883b7cab229e23511f45b2db51  artifacts/idl/quarry_registry.json
-```
+\\\`\\\`\\\`
