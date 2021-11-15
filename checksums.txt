@@ -1,6 +1,3 @@
-# QuarryProtocol/quarry v1.10.1
-## Checksums
-\\\`\\\`\\\`
 3bb43d7e67822e3b9bb95647757134694d81fb64f76df4811a1a1e598d618d2c  release.tar.gz
 d89cc1841e36cd74c7f8ff6c0980d64b4602b42d5031b867e0d867d84403fe6d  artifacts/verifiable/quarry_merge_mine.so
 edd0afcae275e68870b9889eb70ad9cce785880b81d9a1f0d19410f135a60a74  artifacts/verifiable/quarry_mine.so
@@ -14,4 +11,3 @@ eb2bf5ecb9d871dcd79cd11b7bb9991b878baf8e5767d5a0e0a6976eabaf2f00  artifacts/idl/
 84e5413cd9bc756f43caf50008721723c70e3bdc593aba781249faa6cddfd13d  artifacts/idl/quarry_operator.json
 82bdeff494d8ccfd1af423e26c5f4dc96b8ab35c841b78cb3319599a4686b040  artifacts/idl/quarry_redeemer.json
 622f4b811b41ee23906171ca25f62dff8c3449883b7cab229e23511f45b2db51  artifacts/idl/quarry_registry.json
-\\\`\\\`\\\`
