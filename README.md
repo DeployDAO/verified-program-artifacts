@@ -1,3 +1,10 @@
+---
+anchorVersion: "$(nix shell .#anchor-0_18_0 --command anchor --version)"
+createdAt: "$(date)"
+repo: "QuarryProtocol/quarry"
+tag: "v1.10.1"
+slug: "QuarryProtocol__quarry-v1.10.1"
+---
 # QuarryProtocol/quarry v1.10.1
 ## Checksums
 \`\`\`
