@@ -1,6 +1,6 @@
 ---
-anchorVersion: "$(nix shell .#anchor-0_18_0 --command anchor --version)"
-createdAt: "$(date)"
+anchorVersion: "anchor-cli 0.18.0"
+createdAt: "Mon Nov 15 09:23:00 UTC 2021"
 repo: "saber-hq/merkle-distributor"
 tag: "v0.2.2"
 slug: "saber-hq__merkle-distributor-v0.2.2"
