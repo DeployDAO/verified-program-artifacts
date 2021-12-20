@@ -1,6 +1,6 @@
 ---
-anchorVersion: "anchor-cli 0.18.0"
-createdAt: "Sat Nov 27 06:13:13 UTC 2021"
+anchorVersion: "anchor-cli 0.19.0"
+createdAt: "Mon Dec 20 01:40:27 UTC 2021"
 repo: "QuarryProtocol/quarry"
 tag: "v1.10.5"
 slug: "QuarryProtocol__quarry-v1.10.5"
@@ -15,10 +15,10 @@ slug: "QuarryProtocol__quarry-v1.10.5"
 28f961e9fac611ad1d33972d23b5c460468d76c7d9cac5e8ee3751c6f986c86a  artifacts/verifiable/quarry_operator.so
 1f35f0a434e232f695b6d22531349721d6b5070636fb438723d4fca57a48dfaf  artifacts/verifiable/quarry_redeemer.so
 7e8fbc1622a911b80086cc87930c465de7059bddc0e97353caef1f043d32878d  artifacts/verifiable/quarry_registry.so
-eb2bf5ecb9d871dcd79cd11b7bb9991b878baf8e5767d5a0e0a6976eabaf2f00  artifacts/idl/quarry_merge_mine.json
-ad0e03d2ee37e5edae5b3ae06c96a556783f84157ac9429d4681d78bf1d79e00  artifacts/idl/quarry_mine.json
-294b2195b72c18ef3e1cce9af24a7d613df35f221cce9675a6ea0fd8e5e8fd9a  artifacts/idl/quarry_mint_wrapper.json
-fdabdfea65e77bad4721c4d6709e617797cdefb341ba5d103f61f0c0596ab9c6  artifacts/idl/quarry_operator.json
-82bdeff494d8ccfd1af423e26c5f4dc96b8ab35c841b78cb3319599a4686b040  artifacts/idl/quarry_redeemer.json
-622f4b811b41ee23906171ca25f62dff8c3449883b7cab229e23511f45b2db51  artifacts/idl/quarry_registry.json
+75123066bc9ce252773c5e0d39e4618aa1a5f899f991805152da44d83f310ab0  artifacts/idl/quarry_merge_mine.json
+a9038c2db97f1bac2c3c36658b03b24e9c502a611191404da3b8fe9303c8c0f4  artifacts/idl/quarry_mine.json
+54051a89241e79d586b4ffe846a0be192e639c5e4b282b4d6c693f09e53305e0  artifacts/idl/quarry_mint_wrapper.json
+ff601a23848d0cc0ac898c147d12a893568898322979102c798bd4593153b1b7  artifacts/idl/quarry_operator.json
+f72408f1c3daf43571320ad3a2da236090b5b3ed9940b9e6d1ca3f64db9f6409  artifacts/idl/quarry_redeemer.json
+d94b112b57c6a02f2f10c49385369813444be82d71323299b01abf9464026706  artifacts/idl/quarry_registry.json
 ```

@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.10.5",
   "name": "quarry_mine",
   "instructions": [
     {
@@ -917,62 +917,62 @@
   ],
   "errors": [
     {
-      "code": 300,
+      "code": 6000,
       "name": "Unauthorized",
       "msg": "You are not authorized to perform this action."
     },
     {
-      "code": 301,
+      "code": 6001,
       "name": "InsufficientBalance",
       "msg": "Insufficient staked balance for withdraw request."
     },
     {
-      "code": 302,
+      "code": 6002,
       "name": "PendingAuthorityNotSet",
       "msg": "Pending authority not set"
     },
     {
-      "code": 303,
+      "code": 6003,
       "name": "InvalidRewardsShare",
       "msg": "Invalid quarry rewards share"
     },
     {
-      "code": 304,
+      "code": 6004,
       "name": "InsufficientAllowance",
       "msg": "Insufficient allowance."
     },
     {
-      "code": 305,
+      "code": 6005,
       "name": "NewVaultNotEmpty",
       "msg": "New vault not empty."
     },
     {
-      "code": 306,
+      "code": 6006,
       "name": "NotEnoughTokens",
       "msg": "Not enough tokens."
     },
     {
-      "code": 307,
+      "code": 6007,
       "name": "InvalidTimestamp",
       "msg": "Invalid timestamp."
     },
     {
-      "code": 308,
+      "code": 6008,
       "name": "InvalidMaxClaimFee",
       "msg": "Invalid max claim fee."
     },
     {
-      "code": 309,
+      "code": 6009,
       "name": "MaxAnnualRewardsRateExceeded",
       "msg": "Max annual rewards rate exceeded."
     },
     {
-      "code": 310,
+      "code": 6010,
       "name": "Paused",
       "msg": "Rewarder is paused."
     },
     {
-      "code": 311,
+      "code": 6011,
       "name": "UpperboundExceeded",
       "msg": "Rewards earned exceeded quarry's upper bound."
     }

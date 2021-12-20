@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.10.5",
   "name": "quarry_operator",
   "instructions": [
     {
@@ -360,7 +360,7 @@
   ],
   "errors": [
     {
-      "code": 300,
+      "code": 6000,
       "name": "Unauthorized",
       "msg": "Unauthorized."
     }
