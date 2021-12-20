@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.10.0",
   "name": "quarry_redeemer",
   "instructions": [
     {
@@ -186,7 +186,7 @@
   ],
   "errors": [
     {
-      "code": 300,
+      "code": 6000,
       "name": "Unauthorized",
       "msg": "Unauthorized."
     }

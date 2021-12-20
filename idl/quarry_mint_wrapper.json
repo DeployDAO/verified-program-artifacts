@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.10.0",
   "name": "quarry_mint_wrapper",
   "instructions": [
     {
@@ -430,17 +430,17 @@
   ],
   "errors": [
     {
-      "code": 300,
+      "code": 6000,
       "name": "Unauthorized",
       "msg": "You are not authorized to perform this action."
     },
     {
-      "code": 301,
+      "code": 6001,
       "name": "HardcapExceeded",
       "msg": "Cannot mint over hard cap."
     },
     {
-      "code": 302,
+      "code": 6002,
       "name": "MinterAllowanceExceeded",
       "msg": "Minter allowance exceeded."
     }
