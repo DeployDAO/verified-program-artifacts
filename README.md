@@ -1,6 +1,6 @@
 ---
 anchorVersion: "anchor-cli 0.19.0"
-createdAt: "Tue Dec 28 18:41:54 UTC 2021"
+createdAt: "Tue Dec 28 21:32:05 UTC 2021"
 repo: "arrowprotocol/arrow"
 tag: "v0.1.8"
 slug: "arrowprotocol__arrow-v0.1.8"
