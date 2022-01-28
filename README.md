@@ -1,6 +1,6 @@
 ---
 anchorVersion: "anchor-cli 0.19.0"
-createdAt: "2022-01-28T00:54:37Z"
+createdAt: "2022-01-28T01:50:23Z"
 repo: "cashioapp/cashio"
 tag: "v0.1.4"
 slug: "cashioapp__cashio-v0.1.4"
