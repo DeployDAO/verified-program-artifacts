@@ -1,6 +1,6 @@
 ---
 anchorVersion: "anchor-cli 0.19.0"
-createdAt: "2022-01-27T23:55:57Z"
+createdAt: "2022-01-28T00:51:58Z"
 repo: "QuarryProtocol/quarry"
 tag: "v1.10.5"
 slug: "QuarryProtocol__quarry-v1.10.5"
@@ -15,6 +15,12 @@ slug: "QuarryProtocol__quarry-v1.10.5"
 28f961e9fac611ad1d33972d23b5c460468d76c7d9cac5e8ee3751c6f986c86a  artifacts/verifiable/quarry_operator.so
 1f35f0a434e232f695b6d22531349721d6b5070636fb438723d4fca57a48dfaf  artifacts/verifiable/quarry_redeemer.so
 7e8fbc1622a911b80086cc87930c465de7059bddc0e97353caef1f043d32878d  artifacts/verifiable/quarry_registry.so
+795e1327c27422da74e1cb9e81c4f58f3813fb6de6a099d8c73397dd7b4bccf7  artifacts/verifiable-trimmed/quarry_merge_mine.so
+5ba218d5e71fee8865cdfec648f0434065e324190f3b424a8554ee5ccb823cc5  artifacts/verifiable-trimmed/quarry_mine.so
+6398f137a9054c704dd4267eca7593d00c3e0ec858680703396a9ef5c2bf0258  artifacts/verifiable-trimmed/quarry_mint_wrapper.so
+c81ef5a7f084311f653de2af13eb9426d9c4f33901fff230c4430175bddf811e  artifacts/verifiable-trimmed/quarry_operator.so
+37401df72dcc6a68cbefff287400f242e1143a368ffa4447025c9813c35b568b  artifacts/verifiable-trimmed/quarry_redeemer.so
+ba31e33a3a08907d649917af8ed4a03b53db996c673cdcf7619ccf4623ac1ee2  artifacts/verifiable-trimmed/quarry_registry.so
 75123066bc9ce252773c5e0d39e4618aa1a5f899f991805152da44d83f310ab0  artifacts/idl/quarry_merge_mine.json
 a9038c2db97f1bac2c3c36658b03b24e9c502a611191404da3b8fe9303c8c0f4  artifacts/idl/quarry_mine.json
 54051a89241e79d586b4ffe846a0be192e639c5e4b282b4d6c693f09e53305e0  artifacts/idl/quarry_mint_wrapper.json
