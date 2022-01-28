@@ -1,6 +1,6 @@
 ---
 anchorVersion: "anchor-cli 0.19.0"
-createdAt: "2022-01-28T00:51:44Z"
+createdAt: "2022-01-28T01:23:06Z"
 repo: "GokiProtocol/goki"
 tag: "v0.3.1"
 slug: "GokiProtocol__goki-v0.3.1"
