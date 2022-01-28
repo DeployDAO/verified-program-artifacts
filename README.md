@@ -1,6 +1,6 @@
 ---
 anchorVersion: "anchor-cli 0.19.0"
-createdAt: "2022-01-28T00:45:55Z"
+createdAt: "2022-01-28T01:05:35Z"
 repo: "saber-hq/snapshots"
 tag: "v0.1.0"
 slug: "saber-hq__snapshots-v0.1.0"
