@@ -1,0 +1,3 @@
+1402433	release.tar.gz
+625520	artifacts/verifiable/gauge.so
+621590	artifacts/verifiable-trimmed/gauge.so
