@@ -1,0 +1,5 @@
+1258715	release.tar.gz
+262856	artifacts/verifiable/bankman.so
+304176	artifacts/verifiable/brrr.so
+261325	artifacts/verifiable-trimmed/bankman.so
+302232	artifacts/verifiable-trimmed/brrr.so
