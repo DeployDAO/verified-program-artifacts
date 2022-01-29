@@ -5,9 +5,9 @@
   "artifacts/verifiable/lockup.so": "286048",
   "artifacts/verifiable/mint_proxy.so": "271616",
   "artifacts/verifiable/redeemer.so": "281936",
-  "artifacts/verifiable-trimmed/add_decimals.so": "261176",
-  "artifacts/verifiable-trimmed/continuation_router.so": "413458",
-  "artifacts/verifiable-trimmed/lockup.so": "284515",
-  "artifacts/verifiable-trimmed/mint_proxy.so": "270136",
-  "artifacts/verifiable-trimmed/redeemer.so": "280040"
+  "artifacts/verifiable-trimmed/add_decimals.so": "262857",
+  "artifacts/verifiable-trimmed/continuation_router.so": "416265",
+  "artifacts/verifiable-trimmed/lockup.so": "286033",
+  "artifacts/verifiable-trimmed/mint_proxy.so": "271601",
+  "artifacts/verifiable-trimmed/redeemer.so": "281921"
 }
