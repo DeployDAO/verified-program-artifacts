@@ -1,0 +1,5 @@
+1276082	release.tar.gz
+407552	artifacts/verifiable/govern.so
+461184	artifacts/verifiable/locked_voter.so
+405167	artifacts/verifiable-trimmed/govern.so
+458355	artifacts/verifiable-trimmed/locked_voter.so
