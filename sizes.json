@@ -6,10 +6,10 @@
   "artifacts/verifiable/quarry_operator.so": "359568",
   "artifacts/verifiable/quarry_redeemer.so": "312680",
   "artifacts/verifiable/quarry_registry.so": "257008",
-  "artifacts/verifiable-trimmed/quarry_merge_mine.so": "604480",
-  "artifacts/verifiable-trimmed/quarry_mine.so": "607202",
-  "artifacts/verifiable-trimmed/quarry_mint_wrapper.so": "367032",
-  "artifacts/verifiable-trimmed/quarry_operator.so": "357538",
-  "artifacts/verifiable-trimmed/quarry_redeemer.so": "310678",
-  "artifacts/verifiable-trimmed/quarry_registry.so": "255526"
+  "artifacts/verifiable-trimmed/quarry_merge_mine.so": "608465",
+  "artifacts/verifiable-trimmed/quarry_mine.so": "611305",
+  "artifacts/verifiable-trimmed/quarry_mint_wrapper.so": "369473",
+  "artifacts/verifiable-trimmed/quarry_operator.so": "359553",
+  "artifacts/verifiable-trimmed/quarry_redeemer.so": "312665",
+  "artifacts/verifiable-trimmed/quarry_registry.so": "256993"
 }
