@@ -2,6 +2,6 @@
   "release.tar.gz": "1352881",
   "artifacts/verifiable/crate_redeem_in_kind.so": "212608",
   "artifacts/verifiable/crate_token.so": "289536",
-  "artifacts/verifiable-trimmed/crate_redeem_in_kind.so": "211221",
-  "artifacts/verifiable-trimmed/crate_token.so": "287547"
+  "artifacts/verifiable-trimmed/crate_redeem_in_kind.so": "212593",
+  "artifacts/verifiable-trimmed/crate_token.so": "289521"
 }
