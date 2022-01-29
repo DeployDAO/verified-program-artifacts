@@ -1,0 +1,7 @@
+{
+  "release.tar.gz": "1245001",
+  "artifacts/verifiable/smart_wallet.so": "306096",
+  "artifacts/verifiable/token_signer.so": "157664",
+  "artifacts/verifiable-trimmed/smart_wallet.so": "304498",
+  "artifacts/verifiable-trimmed/token_signer.so": "156710"
+}
