@@ -1,0 +1,15 @@
+---
+anchorVersion: "anchor-cli 0.19.0"
+createdAt: "2022-01-29T23:37:18Z"
+repo: "saber-hq/pool-manager"
+tag: "v0.1.10"
+slug: "saber-hq__pool-manager-v0.1.10"
+---
+# saber-hq/pool-manager v0.1.10
+## Checksums
+```
+635e3d159234a86d0f0999d11ad860fcb5109dfac2022be382ddb4c8ae6ef12a  release.tar.gz
+dc8d3e6165b4a7bb900c78c5cdc91dc9cf57e05fee929ca6c99ea0ca6e1a2e81  artifacts/verifiable/pools.so
+1f18881ab11b12e677e3714031cfc09fb8b70197b6a08088f3896588f61ee8a3  artifacts/verifiable-trimmed/pools.so
+48ccce68694f0a20972510863fad3268b6ed81bb8bde7a49033f99cf2e15c093  artifacts/idl/pools.json
+```
