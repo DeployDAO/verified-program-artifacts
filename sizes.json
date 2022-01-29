@@ -2,6 +2,6 @@
   "release.tar.gz": "1276082",
   "artifacts/verifiable/govern.so": "407552",
   "artifacts/verifiable/locked_voter.so": "461184",
-  "artifacts/verifiable-trimmed/govern.so": "405167",
-  "artifacts/verifiable-trimmed/locked_voter.so": "458355"
+  "artifacts/verifiable-trimmed/govern.so": "407537",
+  "artifacts/verifiable-trimmed/locked_voter.so": "461169"
 }
