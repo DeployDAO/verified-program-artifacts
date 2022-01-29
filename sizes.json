@@ -1,0 +1,15 @@
+{
+  "release.tar.gz": "2989848",
+  "artifacts/verifiable/quarry_merge_mine.so": "608480",
+  "artifacts/verifiable/quarry_mine.so": "611320",
+  "artifacts/verifiable/quarry_mint_wrapper.so": "369488",
+  "artifacts/verifiable/quarry_operator.so": "359568",
+  "artifacts/verifiable/quarry_redeemer.so": "312680",
+  "artifacts/verifiable/quarry_registry.so": "257008",
+  "artifacts/verifiable-trimmed/quarry_merge_mine.so": "604480",
+  "artifacts/verifiable-trimmed/quarry_mine.so": "607202",
+  "artifacts/verifiable-trimmed/quarry_mint_wrapper.so": "367032",
+  "artifacts/verifiable-trimmed/quarry_operator.so": "357538",
+  "artifacts/verifiable-trimmed/quarry_redeemer.so": "310678",
+  "artifacts/verifiable-trimmed/quarry_registry.so": "255526"
+}
