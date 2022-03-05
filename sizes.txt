@@ -1,0 +1,3 @@
+2231586	release.tar.gz
+479168	artifacts/verifiable/permalock.so
+479168	artifacts/verifiable-trimmed/permalock.so
