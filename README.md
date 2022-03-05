@@ -1,6 +1,6 @@
 ---
 anchorVersion: \anchor-cli 0.19.0\
-createdAt: \2022-03-05T18:49:25Z\
+createdAt: \2022-03-05T19:43:56Z\
 repo: "CrateProtocol/crate"
 tag: "v0.4.0"
 slug: "CrateProtocol__crate-v0.4.0"
