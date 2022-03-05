@@ -1,3 +1,3 @@
 1693577	release.tar.gz
 576208	artifacts/verifiable/arrow_sunny.so
-576193	artifacts/verifiable-trimmed/arrow_sunny.so
+576208	artifacts/verifiable-trimmed/arrow_sunny.so
