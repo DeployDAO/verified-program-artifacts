@@ -1,5 +1,5 @@
 {
-  "version": "0.9.3",
+  "version": "0.0.0",
   "name": "cpamm",
   "instructions": [
     {
@@ -834,52 +834,52 @@
   ],
   "errors": [
     {
-      "code": 6000,
+      "code": 300,
       "name": "Paused",
       "msg": "Swap pool is paused"
     },
     {
-      "code": 6001,
+      "code": 301,
       "name": "ExceededSlippage",
       "msg": "Swap instruction exceeds desired slippage limit"
     },
     {
-      "code": 6002,
+      "code": 302,
       "name": "InsufficientLiquidity",
       "msg": "Insufficient liquidity"
     },
     {
-      "code": 6003,
+      "code": 303,
       "name": "InsufficientLiquidityPostWithdrawal",
       "msg": "The withdrawal will result in the pool having too little liquidity. Withdraw less tokens."
     },
     {
-      "code": 6004,
+      "code": 304,
       "name": "NewSwapMustHaveNonZeroSupply",
       "msg": "New swap must have non-zero supply on its reserves"
     },
     {
-      "code": 6005,
+      "code": 305,
       "name": "InitialLiquidityTooLow",
       "msg": "Initial liquidity too low"
     },
     {
-      "code": 6006,
+      "code": 306,
       "name": "SwapTokensNotSorted",
       "msg": "Swap's token mints must be sorted"
     },
     {
-      "code": 6007,
+      "code": 307,
       "name": "SwapTokensCannotBeEqual",
       "msg": "Swap's token mints cannot be the same"
     },
     {
-      "code": 6008,
+      "code": 308,
       "name": "SwapPoolMintSupply",
       "msg": "Swap's pool mint supply must be zero"
     },
     {
-      "code": 6009,
+      "code": 309,
       "name": "InvalidFee",
       "msg": "Invalid fee"
     }
