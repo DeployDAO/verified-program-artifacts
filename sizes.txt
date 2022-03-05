@@ -1,3 +1,3 @@
 1580943	release.tar.gz
 311448	artifacts/verifiable/merkle_distributor.so
-311433	artifacts/verifiable-trimmed/merkle_distributor.so
+311448	artifacts/verifiable-trimmed/merkle_distributor.so
