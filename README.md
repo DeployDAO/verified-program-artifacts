@@ -1,6 +1,6 @@
 ---
 anchorVersion: \anchor-cli 0.22.0\
-createdAt: \2022-03-05T18:52:41Z\
+createdAt: \2022-03-05T19:47:34Z\
 repo: "TribecaHQ/permalock"
 tag: "v0.1.4"
 slug: "TribecaHQ__permalock-v0.1.4"
