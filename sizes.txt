@@ -1,0 +1,3 @@
+1272313	release.tar.gz
+560536	artifacts/verifiable/save_token.so
+560536	artifacts/verifiable-trimmed/save_token.so
