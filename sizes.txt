@@ -1,3 +1,3 @@
 1452642	release.tar.gz
 299568	artifacts/verifiable/snapshots.so
-299553	artifacts/verifiable-trimmed/snapshots.so
+299568	artifacts/verifiable-trimmed/snapshots.so
