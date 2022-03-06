@@ -1,1 +1,13 @@
-null
+{
+  "release.tar.gz": "1508100",
+  "artifacts/verifiable/add_decimals.so": "340488",
+  "artifacts/verifiable/continuation_router.so": "483336",
+  "artifacts/verifiable/lockup.so": "360528",
+  "artifacts/verifiable/mint_proxy.so": "346104",
+  "artifacts/verifiable/redeemer.so": "354376",
+  "artifacts/verifiable-trimmed/add_decimals.so": "340473",
+  "artifacts/verifiable-trimmed/continuation_router.so": "483321",
+  "artifacts/verifiable-trimmed/lockup.so": "360513",
+  "artifacts/verifiable-trimmed/mint_proxy.so": "346089",
+  "artifacts/verifiable-trimmed/redeemer.so": "354361"
+}
