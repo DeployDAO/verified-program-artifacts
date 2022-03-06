@@ -1,6 +1,6 @@
 ---
 anchorVersion: \anchor-cli 0.19.0\
-createdAt: \2022-03-05T19:55:02Z\
+createdAt: \2022-03-06T04:06:10Z\
 repo: "saber-hq/saber-periphery"
 tag: "v1.0.6"
 slug: "saber-hq__saber-periphery-v1.0.6"
