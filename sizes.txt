@@ -1,0 +1,3 @@
+1302534	release.tar.gz
+396648	artifacts/verifiable/venko.so
+396633	artifacts/verifiable-trimmed/venko.so
