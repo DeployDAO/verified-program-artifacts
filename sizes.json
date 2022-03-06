@@ -1,1 +1,5 @@
-null
+{
+  "release.tar.gz": "1444725",
+  "artifacts/verifiable/cpamm.so": "432752",
+  "artifacts/verifiable-trimmed/cpamm.so": "432737"
+}

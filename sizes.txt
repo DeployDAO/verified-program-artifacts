@@ -1,3 +1,3 @@
 1444725	release.tar.gz
 432752	artifacts/verifiable/cpamm.so
-432752	artifacts/verifiable-trimmed/cpamm.so
+432737	artifacts/verifiable-trimmed/cpamm.so
