@@ -1,1 +1,5 @@
-null
+{
+  "release.tar.gz": "2231586",
+  "artifacts/verifiable/permalock.so": "479168",
+  "artifacts/verifiable-trimmed/permalock.so": "479153"
+}
