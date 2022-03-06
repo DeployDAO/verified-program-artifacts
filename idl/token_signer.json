@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
+  "version": "0.0.0",
   "name": "token_signer",
   "instructions": [
     {
@@ -31,7 +31,7 @@
   ],
   "errors": [
     {
-      "code": 6000,
+      "code": 300,
       "name": "Unauthorized",
       "msg": "Unauthorized."
     }

@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
+  "version": "0.0.0",
   "name": "smart_wallet",
   "instructions": [
     {
@@ -540,47 +540,47 @@
   ],
   "errors": [
     {
-      "code": 6000,
+      "code": 300,
       "name": "InvalidOwner",
       "msg": "The given owner is not part of this smart wallet."
     },
     {
-      "code": 6001,
+      "code": 301,
       "name": "InvalidETA",
       "msg": "Estimated execution block must satisfy delay."
     },
     {
-      "code": 6002,
+      "code": 302,
       "name": "DelayTooHigh",
       "msg": "Delay greater than the maximum."
     },
     {
-      "code": 6003,
+      "code": 303,
       "name": "NotEnoughSigners",
       "msg": "Not enough owners signed this transaction."
     },
     {
-      "code": 6004,
+      "code": 304,
       "name": "TransactionIsStale",
       "msg": "Transaction is past the grace period."
     },
     {
-      "code": 6005,
+      "code": 305,
       "name": "TransactionNotReady",
       "msg": "Transaction hasn't surpassed time lock."
     },
     {
-      "code": 6006,
+      "code": 306,
       "name": "AlreadyExecuted",
       "msg": "The given transaction has already been executed."
     },
     {
-      "code": 6007,
+      "code": 307,
       "name": "InvalidThreshold",
       "msg": "Threshold must be less than or equal to the number of owners."
     },
     {
-      "code": 6008,
+      "code": 308,
       "name": "OwnerSetChanged",
       "msg": "Owner set has changed since the creation of the transaction."
     }
