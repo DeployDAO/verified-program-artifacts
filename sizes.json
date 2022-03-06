@@ -1,1 +1,5 @@
-null
+{
+  "release.tar.gz": "299011",
+  "artifacts/verifiable/stable_swap.so": "211472",
+  "artifacts/verifiable-trimmed/stable_swap.so": "211457"
+}
