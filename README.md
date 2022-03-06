@@ -1,6 +1,6 @@
 ---
 anchorVersion: \anchor-cli 0.20.1\
-createdAt: \2022-03-06T04:21:48Z\
+createdAt: \2022-03-06T08:08:59Z\
 repo: "QuarryProtocol/quarry"
 tag: "v2.0.1"
 slug: "QuarryProtocol__quarry-v2.0.1"
