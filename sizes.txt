@@ -1,0 +1,13 @@
+2990511	release.tar.gz
+766680	artifacts/verifiable/quarry_merge_mine.so
+775072	artifacts/verifiable/quarry_mine.so
+502488	artifacts/verifiable/quarry_mint_wrapper.so
+471176	artifacts/verifiable/quarry_operator.so
+407696	artifacts/verifiable/quarry_redeemer.so
+338872	artifacts/verifiable/quarry_registry.so
+766665	artifacts/verifiable-trimmed/quarry_merge_mine.so
+775057	artifacts/verifiable-trimmed/quarry_mine.so
+502473	artifacts/verifiable-trimmed/quarry_mint_wrapper.so
+471161	artifacts/verifiable-trimmed/quarry_operator.so
+407681	artifacts/verifiable-trimmed/quarry_redeemer.so
+338857	artifacts/verifiable-trimmed/quarry_registry.so
