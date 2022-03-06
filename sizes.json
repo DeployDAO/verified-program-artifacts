@@ -1,1 +1,5 @@
-null
+{
+  "release.tar.gz": "1581276",
+  "artifacts/verifiable/merkle_distributor.so": "416896",
+  "artifacts/verifiable-trimmed/merkle_distributor.so": "416881"
+}
