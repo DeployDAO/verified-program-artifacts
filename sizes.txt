@@ -4,8 +4,8 @@
 286048	artifacts/verifiable/lockup.so
 271616	artifacts/verifiable/mint_proxy.so
 281936	artifacts/verifiable/redeemer.so
-262872	artifacts/verifiable-trimmed/add_decimals.so
-416280	artifacts/verifiable-trimmed/continuation_router.so
-286048	artifacts/verifiable-trimmed/lockup.so
-271616	artifacts/verifiable-trimmed/mint_proxy.so
-281936	artifacts/verifiable-trimmed/redeemer.so
+262857	artifacts/verifiable-trimmed/add_decimals.so
+416265	artifacts/verifiable-trimmed/continuation_router.so
+286033	artifacts/verifiable-trimmed/lockup.so
+271601	artifacts/verifiable-trimmed/mint_proxy.so
+281921	artifacts/verifiable-trimmed/redeemer.so
