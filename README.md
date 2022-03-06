@@ -1,6 +1,6 @@
 ---
 anchorVersion: \anchor-cli 0.19.0\
-createdAt: \2022-03-05T19:31:45Z\
+createdAt: \2022-03-06T03:38:14Z\
 repo: "saber-hq/stable-swap"
 tag: "v1.6.7"
 slug: "saber-hq__stable-swap-v1.6.7"
