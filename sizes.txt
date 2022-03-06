@@ -1,0 +1,3 @@
+377355	release.tar.gz
+217192	artifacts/verifiable/stable_swap.so
+217192	artifacts/verifiable-trimmed/stable_swap.so
