@@ -1,6 +1,6 @@
 ---
-anchorVersion: \anchor-cli 0.19.0\
-createdAt: \2022-03-06T08:56:43Z\
+anchorVersion: "anchor-cli 0.19.0"
+createdAt: "2022-03-06T09:20:36Z"
 repo: "saber-hq/saber-periphery"
 tag: "v1.0.6"
 slug: "saber-hq__saber-periphery-v1.0.6"
@@ -14,11 +14,11 @@ fdce16ab92ccff018c57040f4e28670af9d4d1c542dd90cc20f146be85523cc5  release.tar.gz
 840fc9ee04e71a9201fc16943fb1b473851a84b772f42a92c905594e8a2f4611  artifacts/verifiable/lockup.so
 8e189363be2b316a03bed270bca83edc65ef29b0488e7dbdcc7f33363affaeef  artifacts/verifiable/mint_proxy.so
 f8682f84dc8d6df0c3c7dd03d39624851db8c16818b5a05a38512108d8abd28d  artifacts/verifiable/redeemer.so
-3cab7daba2ba50f40ef5e25f00785cbc15926d07e194d4a182e4418b3a6c75a9  artifacts/verifiable-trimmed/add_decimals.so
-8b10a6ff1f743e3900541edb9106ba05a594288c956d5da5401d38a5a6273fee  artifacts/verifiable-trimmed/continuation_router.so
-840fc9ee04e71a9201fc16943fb1b473851a84b772f42a92c905594e8a2f4611  artifacts/verifiable-trimmed/lockup.so
-8e189363be2b316a03bed270bca83edc65ef29b0488e7dbdcc7f33363affaeef  artifacts/verifiable-trimmed/mint_proxy.so
-f8682f84dc8d6df0c3c7dd03d39624851db8c16818b5a05a38512108d8abd28d  artifacts/verifiable-trimmed/redeemer.so
+e9dbf88fa91755f4855983e2504d16df0d45f391edb355e2dbd89c90282296a9  artifacts/verifiable-trimmed/add_decimals.so
+5cbfc0b5bd3c6ba9d3b7c809c7896b606769cc8a7605c4c34d8edeb27395519d  artifacts/verifiable-trimmed/continuation_router.so
+3219bdee786caac139551822692f13758b922008b5e89fccf9e4e4de68ce179a  artifacts/verifiable-trimmed/lockup.so
+e3a9a6415c4defd964209970bf96a60ef40874d278da8d76415b1ce07b51c6d9  artifacts/verifiable-trimmed/mint_proxy.so
+2f1e825f377ec2b30805db1ec5e84cd84c060d37756e7490e71458bf9598a1f4  artifacts/verifiable-trimmed/redeemer.so
 ceaf3598a88e1b0d17a836c0bd43ddb2d45bc8cab16f2efb6cd995b65df2d480  artifacts/idl/add_decimals.json
 3e7fbb2ab717abbad48bdcac748552d670f003587a9e78e34cf8b5f329009f0d  artifacts/idl/continuation_router.json
 40944e7ed103a0d3048755c21b59c66cd057cc694bccee9f57eec89fef5862c8  artifacts/idl/lockup.json
