@@ -1,0 +1,5 @@
+1353799	release.tar.gz
+373080	artifacts/verifiable/crate_redeem_in_kind.so
+473096	artifacts/verifiable/crate_token.so
+373065	artifacts/verifiable-trimmed/crate_redeem_in_kind.so
+473081	artifacts/verifiable-trimmed/crate_token.so
