@@ -1,1 +1,5 @@
-null
+{
+  "release.tar.gz": "1404491",
+  "artifacts/verifiable/gauge.so": "634592",
+  "artifacts/verifiable-trimmed/gauge.so": "634577"
+}
