@@ -5,9 +5,9 @@
 322976	artifacts/verifiable/quarry_operator.so
 272448	artifacts/verifiable/quarry_redeemer.so
 226104	artifacts/verifiable/quarry_registry.so
-572632	artifacts/verifiable-trimmed/quarry_merge_mine.so
-581808	artifacts/verifiable-trimmed/quarry_mine.so
-336984	artifacts/verifiable-trimmed/quarry_mint_wrapper.so
-322976	artifacts/verifiable-trimmed/quarry_operator.so
-272448	artifacts/verifiable-trimmed/quarry_redeemer.so
-226104	artifacts/verifiable-trimmed/quarry_registry.so
+572617	artifacts/verifiable-trimmed/quarry_merge_mine.so
+581793	artifacts/verifiable-trimmed/quarry_mine.so
+336969	artifacts/verifiable-trimmed/quarry_mint_wrapper.so
+322961	artifacts/verifiable-trimmed/quarry_operator.so
+272433	artifacts/verifiable-trimmed/quarry_redeemer.so
+226089	artifacts/verifiable-trimmed/quarry_registry.so
