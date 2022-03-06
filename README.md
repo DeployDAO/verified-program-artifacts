@@ -1,6 +1,6 @@
 ---
 anchorVersion: \anchor-cli 0.20.1\
-createdAt: \2022-03-06T07:11:21Z\
+createdAt: \2022-03-06T07:58:49Z\
 repo: "saber-hq/merkle-distributor"
 tag: "v0.3.0"
 slug: "saber-hq__merkle-distributor-v0.3.0"
