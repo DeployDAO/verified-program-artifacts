@@ -1,6 +1,6 @@
 ---
 anchorVersion: \anchor-cli 0.19.0\
-createdAt: \2022-03-06T07:07:58Z\
+createdAt: \2022-03-06T08:05:10Z\
 repo: "TribecaHQ/tribeca"
 tag: "v0.3.0"
 slug: "TribecaHQ__tribeca-v0.3.0"
