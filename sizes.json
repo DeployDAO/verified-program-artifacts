@@ -1,1 +1,5 @@
-null
+{
+  "release.tar.gz": "1486307",
+  "artifacts/verifiable/snapshots.so": "400872",
+  "artifacts/verifiable-trimmed/snapshots.so": "400857"
+}
