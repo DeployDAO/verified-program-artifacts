@@ -1,1 +1,5 @@
-null
+{
+  "release.tar.gz": "1302472",
+  "artifacts/verifiable/venko.so": "396648",
+  "artifacts/verifiable-trimmed/venko.so": "396633"
+}
