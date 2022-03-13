@@ -1,0 +1,11 @@
+1508339	release.tar.gz
+447760	artifacts/verifiable/add_decimals.so
+615248	artifacts/verifiable/continuation_router.so
+491960	artifacts/verifiable/lockup.so
+466096	artifacts/verifiable/mint_proxy.so
+459936	artifacts/verifiable/redeemer.so
+447745	artifacts/verifiable-trimmed/add_decimals.so
+615233	artifacts/verifiable-trimmed/continuation_router.so
+491945	artifacts/verifiable-trimmed/lockup.so
+466081	artifacts/verifiable-trimmed/mint_proxy.so
+459921	artifacts/verifiable-trimmed/redeemer.so
