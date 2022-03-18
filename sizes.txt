@@ -1,0 +1,3 @@
+1708434	release.tar.gz
+452872	artifacts/verifiable/yi.so
+452857	artifacts/verifiable-trimmed/yi.so
