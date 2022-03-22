@@ -1,0 +1,5 @@
+1255873	release.tar.gz
+617088	artifacts/verifiable/smart_wallet.so
+212872	artifacts/verifiable/token_signer.so
+617073	artifacts/verifiable-trimmed/smart_wallet.so
+212857	artifacts/verifiable-trimmed/token_signer.so
