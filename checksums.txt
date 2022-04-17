@@ -1,0 +1,4 @@
+11225d58b736867a40aeb402f42e87d345387f92cfe13bf5bc167feb5cca2711  release.tar.gz
+00730dc284e71d6904bd4133f9be7f06917650397897bf4a7c44b02d28146aa3  artifacts/verifiable/pools.so
+9d3e8403033ad0552eac319fec707fb7eca98e4baea8ffe50910fa445531a842  artifacts/verifiable-trimmed/pools.so
+735d4610501628ed69e9cc0b37e7afd0974830ceb1d3875cdee5c32fb26f3525  artifacts/idl/pools.json
