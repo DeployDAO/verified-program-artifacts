@@ -1,0 +1,7 @@
+{
+  "release.tar.gz": "1315007",
+  "artifacts/verifiable/govern.so": "508296",
+  "artifacts/verifiable/locked_voter.so": "613480",
+  "artifacts/verifiable-trimmed/govern.so": "508281",
+  "artifacts/verifiable-trimmed/locked_voter.so": "613465"
+}
