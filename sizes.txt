@@ -1,0 +1,3 @@
+1740064	release.tar.gz
+472216	artifacts/verifiable/pools.so
+472201	artifacts/verifiable-trimmed/pools.so
